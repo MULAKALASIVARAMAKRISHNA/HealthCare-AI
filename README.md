@@ -450,7 +450,7 @@ apt-get install -y tesseract-ocr poppler-utils
 
 ## 🙋 Author
 
-**SIva Ramakrishna**
+**Siva Ramakrishna**
 
 
 ---
